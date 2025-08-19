@@ -1,6 +1,6 @@
 # Samia Islam
 
-👋 Hi! I am a full-stack developer who enjoys data science and pipeline architecture.  
+👋 Hi! I am a full-stack developer who enjoys machine learning, data science and pipeline architecture.  
 I like clear designs, fast feedback, and shipping small changes that help users.
 
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Yes-brightgreen)
