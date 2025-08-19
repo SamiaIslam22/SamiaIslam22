@@ -40,4 +40,4 @@ Expected graduation May 2026
 
 ## Contact
 📫 samiaislam4477@gmail.com  
-🔗 LinkedIn: add your link here
+🔗 LinkedIn: https://www.linkedin.com/in/islam-samia/
